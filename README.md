@@ -11,9 +11,9 @@
 
 ####Using:
 ```
-    git clone https://github.com/Heaven/Hsp
+    git clone https://github.com/HeavenH/Hsp
     cd Hsp
-    ./Hsp.py -s www.google.com -p 80
+    python Hsp.py -s www.google.com -p 80
 ```
 
 ##### Tested on:
