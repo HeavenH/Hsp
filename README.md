@@ -1,5 +1,5 @@
 # HSP
-##Heaven Scan Port
+##Heaven Scan Port | python 3
 
 ![logo](logo.png)
 
@@ -13,7 +13,7 @@
 ```
     git clone https://github.com/HeavenH/Hsp
     cd Hsp
-    python Hsp.py -s www.google.com -p 80
+    python3 Hsp.py -s www.google.com -p 80
 ```
 
 ##### Tested on:
